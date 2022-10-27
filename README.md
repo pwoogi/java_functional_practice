@@ -237,6 +237,7 @@ Arrays.stream(arr).reduce(0, (a,b)->a+b));
 
 ## 🔐 입출력 스트림
 
-1. 자바의 입출력을 위한 I/O 스트림 [상세보기 - WIKI 페이지 이동](https://github.com/pwoogi/java_functional_practice/wiki/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%9E%85%EC%B6%A5%EB%A0%A5%EC%9D%84-%EC%9C%84%ED%95%9C-I-O-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
-2. 표준 입출력 스트림 [상세보기 - WIKI 페이지 이동](https://github.com/pwoogi/java_functional_practice/wiki/%ED%91%9C%EC%A4%80-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
-3. 바이트 단위 입출력 스트림 [상세보기 - WIKI 페이지 이동](https://github.com/pwoogi/java_functional_practice/wiki/%EB%B0%94%EC%9D%B4%ED%8A%B8-%EB%8B%A8%EC%9C%84-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+1. 자바의 입출력을 위한 I/O 스트림 [상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%9E%85%EC%B6%A5%EB%A0%A5%EC%9D%84-%EC%9C%84%ED%95%9C-I-O-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+2. 표준 입출력 스트림 [상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/%ED%91%9C%EC%A4%80-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+3. 바이트 단위 입출력 스트림 [상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/%EB%B0%94%EC%9D%B4%ED%8A%B8-%EB%8B%A8%EC%9C%84-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+4. 문자 단위 입출력 스트림 [상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/%EB%AC%B8%EC%9E%90-%EB%8B%A8%EC%9C%84-%EC%B6%9C%EB%A0%A5-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
