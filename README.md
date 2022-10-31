@@ -247,3 +247,4 @@ Arrays.stream(arr).reduce(0, (a,b)->a+b));
 ## 🗃 Thread
 1. Thread란 ? [상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/Thread-%EC%93%B0%EB%A0%88%EB%93%9C)
 2. 멀티 Thread 프로그래밍과 동기화[상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/%EB%A9%80%ED%8B%B0-Thread-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EB%8F%99%EA%B8%B0%ED%99%94)
+3. wait, notify 메서드 동기화 프로그래밍[상세보기 - WIKI](https://github.com/pwoogi/java_functional_practice/wiki/Wait(),-notify()-%EB%8F%99%EA%B8%B0%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%B0%EC%8A%B5)
